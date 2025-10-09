@@ -1,0 +1,10 @@
+A simple yet powerful tool for every 3D printing enthusiast — especially for Bambu Lab AMS users!
+This ESP32-based touchscreen app helps you easily track and manage filament consumption across up to four AMS slots (A1–A4).
+
+Each slot starts with a default value (e.g. 1000 g).
+You can log how much filament was used, and the system automatically subtracts it from the total.
+All data is stored on an SD card, so your progress is saved even after rebooting.
+
+Designed for the ESP32-2432S028R (Cheap Yellow Display), the interface is clean and responsive — with touch buttons, on-screen numeric input, and color-coded warnings when a spool is running low.
+
+A simple, elegant, and highly practical solution to keep your AMS organized and your filament usage under control.
